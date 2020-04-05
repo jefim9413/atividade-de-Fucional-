@@ -1,1 +1,1 @@
-ssfs
+soma a b = a + b
