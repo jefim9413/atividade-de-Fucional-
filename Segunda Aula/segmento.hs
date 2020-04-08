@@ -1,0 +1,1 @@
+segmento x y xs | x == 1 =(take y a(xs))|otherwise  = (take((y-x)+1)(drop (x-1)(xs))) 

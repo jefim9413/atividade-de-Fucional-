@@ -1,0 +1,1 @@
+somaQuadrados x = sum(map(^2)([1..x]))
